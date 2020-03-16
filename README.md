@@ -11,5 +11,9 @@ public class Test{
     }
 }
 ```
-
+```
+void main(){
+	println('hello C')
+}
+```
 
